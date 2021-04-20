@@ -1,1 +1,1 @@
-# organization
+# SinfonIA Uniandes - Organization rules
